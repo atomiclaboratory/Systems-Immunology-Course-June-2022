@@ -1,6 +1,6 @@
 # Systems Immunology: an intro to multi-omics data integration and machine learning course
 
-![alt text]([image url](https://media-exp1.licdn.com/dms/image/C5622AQFxwZ7GuDfYIA/feedshare-shrink_800/0/1655812580164?e=1658966400&v=beta&t=VQW2NIYOSSZYwEWk9RFn6RLEYI28TiZ9WQIPOVT8WnQ) "Systems Immunology course")
+![Systems Immunology Course](https://media-exp1.licdn.com/dms/image/C5622AQFxwZ7GuDfYIA/feedshare-shrink_800/0/1655812580164?e=1658966400&v=beta&t=VQW2NIYOSSZYwEWk9RFn6RLEYI28TiZ9WQIPOVT8WnQ "Systems Immunology Course")
 
 ## Date
 June 23/24th and 27/28th 2022
