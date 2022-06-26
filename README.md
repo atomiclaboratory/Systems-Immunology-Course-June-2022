@@ -24,7 +24,7 @@ If you plan to use machine learning to identify patterns in your data and want t
 ## Pre-read and prerequisite for the course
 
 -  Installation instructions: [SIMON repository](https://github.com/genular/simon-frontend)
--  Step-by-step analysis instructions:[SIMON manuscript](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7)
+-  Step-by-step analysis instructions: [SIMON manuscript](https://www.cell.com/patterns/fulltext/S2666-3899(20)30242-7)
 - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) by Max Kuhn and Kjell Johnson
 - Case example 1 - [FluPRINT project](https://www.jimmunol.org/content/early/2019/06/13/jimmunol.1900033)
 - Case example 2 - [COMBAT project](https://www.cell.com/cell/fulltext/S0092-8674(22)00070-8?_)
