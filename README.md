@@ -9,7 +9,7 @@ Adriana Tomic, PhD
 Systems Immunology, University of Oxford
 Oxford, UK
 
-Email: [info@adrianatomic.com](mailto:info@adrianatomic.com) or [adriana.tomic@paediatrics.ox.ac.uk] (mailto:adriana.tomic@paediatrics.ox.ac.uk)
+Email: [info@adrianatomic.com](mailto:info@adrianatomic.com) or [adriana.tomic@paediatrics.ox.ac.uk](mailto:adriana.tomic@paediatrics.ox.ac.uk)
 
 ## About
 
